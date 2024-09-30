@@ -6,7 +6,7 @@ A collection of various color palettes made by myself, intended for videogames o
 * RGR-Papercut4 / 4 colours inspired by old paper and ink.
 * RGR-MPP32 / Multi-Purpose palette of 32 colours.
 
-## RGR-Proto16  
+### RGR-Proto16  
 Description: A 16 colour palette inspired by old PC's and reddish and warm colours.  
 **Colors: 16**
 
@@ -27,7 +27,7 @@ Description: A 16 colour palette inspired by old PC's and reddish and warm colou
 * ![#ffbf40](https://placehold.co/15x15/ffbf40/ffbf40.png) `#ffbf40`	**Amarillo**
 * ![#cc1424](https://placehold.co/15x15/cc1424/cc1424.png) `#cc1424`	**Rojo**
 
-## RGR-Papercut4
+### RGR-Papercut4
 Description: A 4 colour palette inspired by ink and paper.  
 **Colors: 4**  
 
@@ -36,7 +36,7 @@ Description: A 4 colour palette inspired by ink and paper.
 * ![#8b7d73](https://placehold.co/15x15/8b7d73/8b7d73.png) `#8b7d73`	**Silver gray**
 * ![#cdb27b](https://placehold.co/15x15/cdb27b/cdb27b.png) `#cdb27b`	**Old paper white**
 
-## RGR-MPP32
+### RGR-MPP32
 Description: A 32 Colour palette intended as a general pixel-art colour scheme.  
 **Colors: 32**  
 
