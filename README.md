@@ -10,6 +10,8 @@ A collection of various color palettes made by myself, intended for videogames o
 Description: A 16 colour palette inspired by old PC's and reddish and warm colours.  
 **Colors: 16**
 
+![rgr-proto16-palette-example-by-rugiero-roca-581231](https://github.com/user-attachments/assets/1a261f91-5151-4938-94b3-a497161894d2)
+
 * ![#fff9b3](https://placehold.co/15x15/fff9b3/fff9b3.png) `#fff9b3`	**Blanco soleado**
 * ![#b9c5cc](https://placehold.co/15x15/b9c5cc/b9c5cc.png) `#b9c5cc`	**Celeste nublado**
 * ![#4774b3](https://placehold.co/15x15/4774b3/4774b3.png) `#4774b3`	**Azul costa**
@@ -30,6 +32,8 @@ Description: A 16 colour palette inspired by old PC's and reddish and warm colou
 ### RGR-Papercut4
 Description: A 4 colour palette inspired by ink and paper.  
 **Colors: 4**  
+
+![rgr-papercut4-palette-example-by-ruchary-924022](https://github.com/user-attachments/assets/f9d8ce86-2b2d-460b-b8b3-77b4faefeb5f)
 
 * ![#0c0c0d](https://placehold.co/15x15/0c0c0d/0c0c0d.png) `#0c0c0d`	**Ink black**
 * ![#3f3d47](https://placehold.co/15x15/3f3d47/3f3d47.png) `#3f3d47`	**Charcoal gray**
