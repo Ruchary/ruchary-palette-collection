@@ -1,14 +1,14 @@
-# **Ruchary's Palette collection.**
-A collection of various color palettes made by myself, intended for videogames or digital art creation.
+# Ruchary's Palette collection. :art:
+A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:
 
 ## List of Palettes:
 * RGR-Proto16 / A 16 colour palette inspired by old PC's and reddish and warm colours. 
 * RGR-Papercut4 / 4 colours inspired by old paper and ink.
 * RGR-MPP32 / Multi-Purpose palette of 32 colours.
 
-## RGR-Proto16
-### Description: A 16 colour palette inspired by old PC's and reddish and warm colours.
-### Colors: 16
+## RGR-Proto16  
+Description: A 16 colour palette inspired by old PC's and reddish and warm colours.  
+**Colors: 16**
 
 * ![#fff9b3](https://placehold.co/15x15/fff9b3/fff9b3.png) `#fff9b3`	**Blanco soleado**
 * ![#b9c5cc](https://placehold.co/15x15/b9c5cc/b9c5cc.png) `#b9c5cc`	**Celeste nublado**
@@ -28,8 +28,8 @@ A collection of various color palettes made by myself, intended for videogames o
 * ![#cc1424](https://placehold.co/15x15/cc1424/cc1424.png) `#cc1424`	**Rojo**
 
 ## RGR-Papercut4
-### Description: A 4 colour palette inspired by ink and paper.
-### Colors: 4
+Description: A 4 colour palette inspired by ink and paper.  
+**Colors: 4**  
 
 * ![#0c0c0d](https://placehold.co/15x15/0c0c0d/0c0c0d.png) `#0c0c0d`	**Ink black**
 * ![#3f3d47](https://placehold.co/15x15/3f3d47/3f3d47.png) `#3f3d47`	**Charcoal gray**
@@ -37,8 +37,8 @@ A collection of various color palettes made by myself, intended for videogames o
 * ![#cdb27b](https://placehold.co/15x15/cdb27b/cdb27b.png) `#cdb27b`	**Old paper white**
 
 ## RGR-MPP32
-### Description: A 32 Colour palette intended as a general pixel-art colour scheme.
-### Colors: 32
+Description: A 32 Colour palette intended as a general pixel-art colour scheme.  
+**Colors: 32**  
 
 * ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`	**Blanco puro**
 * ![#f2b58c](https://placehold.co/15x15/f2b58c/f2b58c.png) `#f2b58c`	**Durazno**
