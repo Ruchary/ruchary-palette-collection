@@ -1,5 +1,6 @@
 # Ruchary's Palette collection. :art:
-A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:
+A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:  
+You can use it in various softwares like GIMP or Aseprite.
 
 ## List of Palettes 🏷️
 * RGR-Proto16 / A 16 colour palette inspired by old PC's and reddish and warm colours. 
