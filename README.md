@@ -12,6 +12,8 @@ Description: A 16 colour palette inspired by old PC's and reddish and warm colou
 
 ![rgr-proto16-palette-example-by-rugiero-roca-581231](https://github.com/user-attachments/assets/1a261f91-5151-4938-94b3-a497161894d2)
 
+![#fff9b3](https://placehold.co/15x15/fff9b3/fff9b3.png) ![#b9c5cc](https://placehold.co/15x15/b9c5cc/b9c5cc.png) ![#4774b3](https://placehold.co/15x15/4774b3/4774b3.png) ![#144b66](https://placehold.co/15x15/144b66/144b66.png) ![#8fb347](https://placehold.co/15x15/8fb347/8fb347.png) ![#2e994e](https://placehold.co/15x15/2e994e/2e994e.png) ![#f29066](https://placehold.co/15x15/f29066/f29066.png) ![#e65050](https://placehold.co/15x15/e65050/e65050.png) ![#6a7574](https://placehold.co/15x15/6a7574/6a7574.png) ![#293c40](https://placehold.co/15x15/293c40/293c40.png) ![#241129](https://placehold.co/15x15/241129/241129.png) ![#170b1a](https://placehold.co/15x15/170b1a/170b1a.png) ![#570934](https://placehold.co/15x15/570934/570934.png) ![#871e2e](https://placehold.co/15x15/871e2e/871e2e.png) ![#ffbf40](https://placehold.co/15x15/ffbf40/ffbf40.png) ![#cc1424](https://placehold.co/15x15/cc1424/cc1424.png)
+
 * ![#fff9b3](https://placehold.co/15x15/fff9b3/fff9b3.png) `#fff9b3`	**Blanco soleado**
 * ![#b9c5cc](https://placehold.co/15x15/b9c5cc/b9c5cc.png) `#b9c5cc`	**Celeste nublado**
 * ![#4774b3](https://placehold.co/15x15/4774b3/4774b3.png) `#4774b3`	**Azul costa**
@@ -35,6 +37,8 @@ Description: A 4 colour palette inspired by ink and paper.
 
 ![rgr-papercut4-palette-example-by-ruchary-924022](https://github.com/user-attachments/assets/f9d8ce86-2b2d-460b-b8b3-77b4faefeb5f)
 
+![#0c0c0d](https://placehold.co/15x15/0c0c0d/0c0c0d.png) ![#3f3d47](https://placehold.co/15x15/3f3d47/3f3d47.png) ![#8b7d73](https://placehold.co/15x15/8b7d73/8b7d73.png) ![#cdb27b](https://placehold.co/15x15/cdb27b/cdb27b.png)
+
 * ![#0c0c0d](https://placehold.co/15x15/0c0c0d/0c0c0d.png) `#0c0c0d`	**Ink black**
 * ![#3f3d47](https://placehold.co/15x15/3f3d47/3f3d47.png) `#3f3d47`	**Charcoal gray**
 * ![#8b7d73](https://placehold.co/15x15/8b7d73/8b7d73.png) `#8b7d73`	**Silver gray**
@@ -43,6 +47,8 @@ Description: A 4 colour palette inspired by ink and paper.
 ### RGR-MPP32
 Description: A 32 Colour palette intended as a general pixel-art colour scheme.  
 **Colors: 32**  
+
+![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) ![#f2b58c](https://placehold.co/15x15/f2b58c/f2b58c.png) ![#db7862](https://placehold.co/15x15/db7862/db7862.png) ![#c53232](https://placehold.co/15x15/c53232/c53232.png) ![#87082e](https://placehold.co/15x15/87082e/87082e.png) ![#4d0c3c](https://placehold.co/15x15/4d0c3c/4d0c3c.png) ![#f2d355](https://placehold.co/15x15/f2d355/f2d355.png) ![#e68f3e](https://placehold.co/15x15/e68f3e/e68f3e.png) ![#cf502a](https://placehold.co/15x15/cf502a/cf502a.png) ![#6e2525](https://placehold.co/15x15/6e2525/6e2525.png) ![#3d1416](https://placehold.co/15x15/3d1416/3d1416.png) ![#7dc756](https://placehold.co/15x15/7dc756/7dc756.png) ![#358546](https://placehold.co/15x15/358546/358546.png) ![#1e534e](https://placehold.co/15x15/1e534e/1e534e.png) ![#111e36](https://placehold.co/15x15/111e36/111e36.png) ![#c9efe0](https://placehold.co/15x15/c9efe0/c9efe0.png) ![#68a4c2](https://placehold.co/15x15/68a4c2/68a4c2.png) ![#335bac](https://placehold.co/15x15/335bac/335bac.png) ![#1e202e](https://placehold.co/15x15/1e202e/1e202e.png) ![#f2d0bb](https://placehold.co/15x15/f2d0bb/f2d0bb.png) ![#d0946e](https://placehold.co/15x15/d0946e/d0946e.png) ![#a75844](https://placehold.co/15x15/a75844/a75844.png) ![#e68198](https://placehold.co/15x15/e68198/e68198.png) ![#d9577c](https://placehold.co/15x15/d9577c/d9577c.png) ![#9e3a8a](https://placehold.co/15x15/9e3a8a/9e3a8a.png) ![#4a2a61](https://placehold.co/15x15/4a2a61/4a2a61.png) ![#b4bebf](https://placehold.co/15x15/b4bebf/b4bebf.png) ![#8e91a0](https://placehold.co/15x15/8e91a0/8e91a0.png) ![#606779](https://placehold.co/15x15/606779/606779.png) ![#32304c](https://placehold.co/15x15/32304c/32304c.png) ![#1e151d](https://placehold.co/15x15/1e151d/1e151d.png) ![#1a021a](https://placehold.co/15x15/1a021a/1a021a.png)
 
 * ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`	**Blanco puro**
 * ![#f2b58c](https://placehold.co/15x15/f2b58c/f2b58c.png) `#f2b58c`	**Durazno**
