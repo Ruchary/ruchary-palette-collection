@@ -1,7 +1,7 @@
 # Ruchary's Palette collection. :art:
 A collection of various color palettes made by myself, intended for videogames or digital art creation. :mate:
 
-## List of Palettes:
+## List of Palettes
 * RGR-Proto16 / A 16 colour palette inspired by old PC's and reddish and warm colours. 
 * RGR-Papercut4 / 4 colours inspired by old paper and ink.
 * RGR-MPP32 / Multi-Purpose palette of 32 colours.
